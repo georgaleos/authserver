@@ -1,0 +1,7 @@
+server:
+  port: 8081
+  contextPath: /spring-security-oauth-server
+
+#spring:
+#  profiles:
+#    active: dev
